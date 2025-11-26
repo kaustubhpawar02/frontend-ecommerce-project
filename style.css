@@ -434,8 +434,10 @@ h5 a{
     height: 100%;
     z-index: 3;
     transition: all .3s ease-in-out;
+}
 
-
+.blog-box:hover::before{
+    width: 100%;
 }
 
 
