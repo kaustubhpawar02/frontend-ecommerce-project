@@ -348,3 +348,37 @@ del{
     content: 'Sale';
     background: var(--primary-clr);
 }
+
+.sale-container{
+    padding-block: 5rem;
+    text-align: center;
+    background-image: url("images/sale-image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sale-container h3{
+    font-weight: 200;
+    font-size: 1.56rem;
+    line-height: 1.6rem;
+    text-transform: uppercase;
+
+
+}
+
+.sale-container h1{
+    font-size: 3.2rem;
+    font-weight: 500;
+    line-height: 4.7rem;
+}
+
+.sale-container .line{
+    width: 15%;
+    background: #c5c5c5;
+}
+
+.sale-container h4{
+    font-size: 1.2rem;
+    color: #6e6e6e;
+    line-height: 3.5rem;
+}
